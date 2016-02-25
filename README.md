@@ -1,4 +1,4 @@
-[![Score72.JS Logo]("modules/core/client/img/brand/blogo.png")](http://score72.com/)
+[![Score72.JS Logo](http://www.score72.com/public/uploads/settings/images_company_logo_140209112454.png)](http://score72.com/)
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/meanjs/mean?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/meanjs/mean.svg?branch=master)](https://travis-ci.org/meanjs/mean)
